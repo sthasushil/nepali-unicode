@@ -1,5 +1,6 @@
 I created this repo for my own personal use as a backup, in case the official website bites the dust.
-<pre>Nepali Unicode Font:  <a href="https://github.com/sthasushil/nepali-unicode/raw/main/fonts/fonts.zip" target="_blank" rel="noopener noreferrer"><img height="16px" src="download.png" /></a></pre>
+<pre>Nepali Unicode Font:  <a href="https://github.com/sthasushil/nepali-unicode/raw/main/fonts/fonts.zip" target="_blank" rel="noopener noreferrer"><img height="16px" src="download.png" /></a>
+Sanskrit Text Font: <a href="https://github.com/sthasushil/nepali-unicode/raw/main/fonts/sanskrit%20text.ttf" target="_blank" rel="noopener noreferrer"><img height="16px" src="download.png" /></a></pre>
 <pre>Nepali Unicode Layout (Windows):
   Traditional <a href="https://github.com/sthasushil/nepali-unicode/raw/main/keyboard_layout/windows/traditional/setup/Traditional.zip" target="_blank" rel="noopener noreferrer"><img height="16px" src="download.png" /></a>    Romanized <a href="https://github.com/sthasushil/nepali-unicode/raw/main/keyboard_layout/windows/romanized/setup/romanized.zip" target="_blank" rel="noopener noreferrer"><img height="16px" src="download.png" /></a></pre>
 <pre>Nepali Unicode Layout (Mac):
